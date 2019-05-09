@@ -33,6 +33,7 @@ class LoginViewController: UIViewController, UITextFieldDelegate {
     
     @IBAction func buttonTapped(_ sender: UIButton) {
         // perform login or sign up operation based on loginType
+    
     }
     
     @IBAction func signInTypeChanged(_ sender: UISegmentedControl) {
